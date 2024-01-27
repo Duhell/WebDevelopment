@@ -1,5 +1,4 @@
 import { HeroComponent } from "./partials/hero.js";
-
 const app = document.getElementById('app')
 
 const render = ()=>{
